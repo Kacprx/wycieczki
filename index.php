@@ -12,7 +12,7 @@
 	<meta name="author" content="Kacper.M Wycieczki">
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link href="style.css" rel="stylesheet" type="text/css" />
+	<link href="/style.css" rel="stylesheet" type="text/css" />
 	<script src="https://code.jquery.com/jquery-3.7.0.js"></script>
 </head>
 
