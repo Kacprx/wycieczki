@@ -77,7 +77,7 @@
 					<div class="pContent">
 						<p class="pTitle pTitle-grid">JARABIŃSKIE TIESNIAVY</p>
 						<p class="pDate pDate-grid"><i class="fa fa-calendar" aria-hidden="true"></i> 20.02.2023</p>
-						<a class="pReadMore pReadMore-grid" href="wycieczki/2024/jarabinskie-tiesniavy.php">Czytaj więcej <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+						<a class="pReadMore pReadMore-grid" href="wycieczki/2024/jarabinskie-tiesniavy">Czytaj więcej <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
 					</div>
 				</div>
 				
