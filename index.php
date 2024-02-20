@@ -71,7 +71,7 @@
 			</div>
 			<div class="wycieczki-list">
 				<div id="wycieczki" style="position:relative;left:0;top:-85px;width:0px;height:0px;overflow:hidden;"></div>
-<!--    POSTY:   -->
+<!--         POSTY:      -->
 				<div class="post post-grid">
 					<img class="pImage pImage-grid" src="https://cdn.discordapp.com/attachments/961293203577905244/1209540253526917140/jarabinskie-tiesnavy.jpg?ex=65e74b24&is=65d4d624&hm=21715905ee90f502af8d2e3aa95b27a491b0dea8cd245041c6b1c226fca016fe&" alt="Jarabińskie tiesniavy">
 					<div class="pContent">
@@ -81,7 +81,7 @@
 					</div>
 				</div>
 				
-				
+<!--      KONIEC POSTÓW     -->
 			</div>
 		</div>
 
